@@ -1,4 +1,17 @@
-map
+Community-Board-14-Nonprofit-Services-Map
 ===
 
-Brooklyn Community Board 14's Nonprofit Services Map
+Brooklyn Community Board 14's Nonprofit Services Map: A Google Maps Engine custom map showing Nonprofit Services in and around Brooklyn's Community District 14.  We are in need of technical help and would love a Civic Hacker to give us a hand. See below for more details. (https://mapsengine.google.com/map/edit?mid=znlLi7_k5Cj4.kygVHH9EP5_g)
+
+The issues we would like to resolve include:
+ 
+1.      ALLOW USERS TO TURN ON & OFF CATEGORY LAYERS: Organizations are classified by category in the menu (left side of map.) Google Maps Engine Light allows for only 3 layers to be uploaded (csv). Map features must be uploaded as individual layers to turn on and off. Goal: Click on or off up to 20 Service Provider categories to see individual markers for user's preferred service providers i.e. Senior or Youth Services.
+2.       SORT CATEGORY LIST A-Z. Currently list is sorted by occurrence. Classifications with the most organizations in them are listed at the top and those with the fewest at the bottom.
+3.       HOVER FEATURE: If you click on a category in the list, circles will light up around all of the service providers within that category but you must click on each one to activate the pop-up window to find out the name of the organization. Alternately, you can turn on "labels" which cause all of the organization’s names to appear in a big jumble of text across the map. We would like to be able to hover over icons and have the names of each organization appear briefly.
+4.       SEARCH BAR/SIGN-IN ISSUES: The search bar at the top of screen does not appear unless the user is signed into a gmail/google account. The search bar must remain visible at all times. Perhaps this issue could be eliminated by embedding the map into our (wordpress/gmail-linked) website, but we have not yet tried this out.
+5.       LAST UPDATED TEXT BOX: So users know how current the information for each organization is and to help CB staff ensure that the information is updated regularly. Could be manually added but if there is an auto-feature that could be installed to indicate the last updated date, that would be great.
+6.       MAP/DATA PRINTING CAPABILITY: Users should be able to print out specific data from the data view (single organization’s information or listing by classification of multiple organizations) and also print maps from the map view which could show the selected organizations. Have not found a printing option for Google Maps Engine.
+
+LONG-TERM GOALS: Our long term goal is to expand the map to include data layers such as census data, which we could use during agency and budget negotiations to advocate for needed services in the district. For instance, if data shows a large number of seniors living in a certain area that is lacking in senior centers, we could more effectively advocate for funding for a new senior center. We would also like the ability to create new layers for specific situations. For instance, during a weather emergency it would be great to be able to activate an emergency services map which could be updated in real time, showing the shelters, service providers, open gas stations, etc. within our district. In the short term, we would like to correct the issues above and launch the map, so that organizations and residents can begin using it.  We are looking forward to hearing back from any volunteer developers who would like to assist with our services mapping project!
+
+
